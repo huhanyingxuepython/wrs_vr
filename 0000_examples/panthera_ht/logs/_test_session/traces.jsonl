@@ -1,0 +1,2 @@
+{"t_s":0.0,"active":true,"episode_id":0,"camera_frame_idx":0,"video_file":"videos/episode_000.mp4","q_master":[0,0,0,0,0,0],"q_slave_target":[0.1,0,0,0,0,0],"q_slave_meas":[0.09,0,0,0,0,0]}
+{"t_s":0.1,"active":true,"episode_id":0,"camera_frame_idx":1,"video_file":"videos/episode_000.mp4","q_master":[0.1,0,0,0,0,0],"q_slave_target":[0.2,0,0,0,0,0],"q_slave_meas":[0.19,0,0,0,0,0]}
